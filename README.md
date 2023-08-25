@@ -1,4 +1,4 @@
-# Proyecto basico de una tienda
+# Proyecto de una tienda con python
 
 Using python 
 
