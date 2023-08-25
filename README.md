@@ -10,13 +10,13 @@ Install
 
 ## Aplication Structure
 .
-|────── .gitignore
-|────── compra.py
-|────── constants.py
-|────── README.md
-|────── service.py
-|────── tienda.py
-|────── venta.py
+|────── .gitignore/
+|────── compra.py/
+|────── constants.py/
+|────── README.md/
+|────── service.py/
+|────── tienda.py/
+|────── venta.py/
 
 
 ### Run project for debug
